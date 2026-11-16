@@ -2,8 +2,8 @@
 
 Lab work and assignments submitted during the **ATHAR Training in Generative Artificial Intelligence** program.
 
-**Participant:** Hagar Ahmed Ghazi, Teaching Assistant
-Department of Machine Learning and Information Retrieval, Artificial Intelligence Program
+**Participant:** Hagar Ahmed Ghazi, Teaching Assistant<br>
+Department of Machine Learning and Information Retrieval, Artificial Intelligence Program<br>
 Faculty of Artificial Intelligence, Kafrelsheikh University
 
 ## Labs
